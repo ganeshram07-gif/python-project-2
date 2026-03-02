@@ -168,14 +168,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 **Ganesh Ram S**  
-*College Student | Chennai, Tamil Nadu, India*  
-💻 Python Data Analysis | 🎮 Gaming | 🏋️ Fitness  
+*College Student | kamaraj college, Thoothukudi , Tamil Nadu, India*  
+💻 Python Data Analysis 
 
-[
-[
 
-***
-
-**⭐ Star if helpful! | 📢 Issues welcome!**
-
-*Built for Data Science education with Pandas & Jupyter Notebook* [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/91291291/fb95740e-6c9d-45cd-a11c-bb08745ed45c/Untitled13.ipynb)
